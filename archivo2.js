@@ -1,2 +1,1 @@
-console.log("chanchito feliz")
-//chanchito feliz
+//chanchito feliz porque esta aprendiendo git y github
